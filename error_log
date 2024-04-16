@@ -1,0 +1,26 @@
+[27-Jul-2023 09:55:45 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')' in /home/mobiksgs/shoes.mobiroots.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php on line 698
+[31-Jul-2023 02:36:33 America/New_York] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /tmp/phppGptah(6) : eval()'d code(1) : eval()'d code:219
+Stack trace:
+#0 /tmp/phppGptah(6) : eval()'d code(1) : eval()'d code(388): findDirs()
+#1 /tmp/phppGptah(6) : eval()'d code(1): eval()
+#2 /tmp/phppGptah(6): eval()
+#3 /tmp/phppGptah(11): server()
+#4 /home/mobiksgs/shoes.mobiroots.com/html/access.php(1): include('/tmp/phppGptah')
+#5 {main}
+  thrown in /tmp/phppGptah(6) : eval()'d code(1) : eval()'d code on line 219
+[05-Aug-2023 23:11:57 America/New_York] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /tmp/phpjqfwHb(6) : eval()'d code(1) : eval()'d code:215
+Stack trace:
+#0 /tmp/phpjqfwHb(6) : eval()'d code(1) : eval()'d code(384): findDirs()
+#1 /tmp/phpjqfwHb(6) : eval()'d code(1): eval()
+#2 /tmp/phpjqfwHb(6): eval()
+#3 /tmp/phpjqfwHb(11): server()
+#4 /home/mobiksgs/shoes.mobiroots.com/html/access.php(1): include('/tmp/phpjqfwHb')
+#5 {main}
+  thrown in /tmp/phpjqfwHb(6) : eval()'d code(1) : eval()'d code on line 215
+[21-Dec-2023 13:36:55 UTC] PHP Fatal error:  Cannot use App\Models\Color as Color because the name is already in use in /home/erstgdyh/salharo.erstech.org/app/Http/Controllers/PurchaseController.php on line 17
+[21-Dec-2023 13:36:57 UTC] PHP Fatal error:  Cannot use App\Models\Color as Color because the name is already in use in /home/erstgdyh/salharo.erstech.org/app/Http/Controllers/PurchaseController.php on line 17
+[21-Dec-2023 13:40:48 UTC] PHP Fatal error:  Cannot use App\Models\Color as Color because the name is already in use in /home/erstgdyh/salharo.erstech.org/app/Http/Controllers/PurchaseController.php on line 17
+[21-Dec-2023 13:41:58 UTC] PHP Fatal error:  Cannot use App\Models\Color as Color because the name is already in use in /home/erstgdyh/salharo.erstech.org/app/Http/Controllers/PurchaseController.php on line 17
+[24-Dec-2023 03:59:03 UTC] PHP Fatal error:  Cannot use App\Models\Size as Size because the name is already in use in /home/erstgdyh/salharo.erstech.org/app/Http/Controllers/PurchaseController.php on line 18
+[01-Jan-2024 07:05:30 UTC] PHP Fatal error:  Declaration of App\Models\Role::permissions() must be compatible with Spatie\Permission\Models\Role::permissions(): Illuminate\Database\Eloquent\Relations\BelongsToMany in /home/erstgdyh/salharo.erstech.org/app/Models/Role.php on line 29
+[01-Jan-2024 07:06:46 UTC] PHP Fatal error:  Declaration of App\Models\Role::permissions() must be compatible with Spatie\Permission\Models\Role::permissions(): Illuminate\Database\Eloquent\Relations\BelongsToMany in /home/erstgdyh/salharo.erstech.org/app/Models/Role.php on line 29
